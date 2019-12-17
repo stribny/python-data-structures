@@ -4,6 +4,7 @@ We can use TypedDict to implement Data Transfer Object that is typed and can be 
 advantages:
 - can provide typing to existing dictionaries
 - being still a dictionary, can map to JSON data structures
+- all defined keys have to exist in the dictionary
 
 disadvantages:
 - only available from Python 3.8
