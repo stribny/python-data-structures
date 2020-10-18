@@ -1,6 +1,6 @@
-# Data Transfer Objects (DTOs) in Python
+# Python data structures
 
-This project demonstrates various ways how to create DTOs:
+This project demonstrates various data structures in Python:
 
 - [Using NamedTuple](examples/using_namedtuple.py)
 - [Using @dataclass](examples/using_dataclass.py)
